@@ -6,3 +6,8 @@ dist
 dist_installer
 build
 *.log
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
