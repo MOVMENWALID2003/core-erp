@@ -1127,7 +1127,7 @@ export default function App() {
           ) : null)}
         </nav>
         <div className="sidebar-footer"><span className="online-indicator"/><span>قاعدة المخزون المحلية</span></div>
-        <div className="sidebar-credit">CORE ERP v5.4.21 | تم التطوير بواسطة MOAMEN ELBARADEI</div>
+        <div className="sidebar-credit">CORE ERP v1.0.1 | تم التطوير بواسطة MOAMEN ELBARADEI</div>
       </aside>
 
       <main className="main-panel">

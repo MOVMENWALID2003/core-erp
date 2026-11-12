@@ -1,7 +1,7 @@
 {
   "name": "core-erp",
   "productName": "CORE ERP",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "MOAMEN ELBARADEI",
   "description": "CORE ERP local-first warehouse and inventory management desktop application",
   "main": "electron/main.cjs",

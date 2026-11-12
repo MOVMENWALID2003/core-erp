@@ -41,7 +41,7 @@ export function SplashScreen({ready}: Props) {
         </div>
         <footer className="splash-credits">
           <span>المطور: MOAMEN ELBARADEI</span>
-          <span>الإصدار v5.4.21 · نسخة التطبيق 1.0.0</span>
+          <span>الإصدار v1.0.1</span>
         </footer>
       </motion.div>}
     </AnimatePresence>
